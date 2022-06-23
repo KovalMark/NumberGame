@@ -11,22 +11,27 @@
     + приложение состоит всего из 5-ти экранов;
     + разработка проекта завершена и дальнейшее развитие проекта, не подразумевается.
 
-### Экран старта игры (StartController)
-    + ![loadScreen]( https://github.com/KovalMark/ScreenshotApp/blob/master/NG/StartController(V).png )
-    + ![loadScreen]( https://github.com/KovalMark/ScreenshotApp/blob/master/NG/StartController(H).png )
+### Экран старта игры
++ StartController
+    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/NG/StartControllerV.png)
+    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/NG/StartControllerH.png)
 
-### Экран загадывания числа (UserNumberController)
-    + ![loadScreen]( https://github.com/KovalMark/ScreenshotApp/blob/master/NG/UserNumberController(V).png )
-    + ![loadScreen]( https://github.com/KovalMark/ScreenshotApp/blob/master/NG/UserNumberController(H).png )
+### Экран загадывания числа
++ UserNumberController
+    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/NG/UserNumberControllerV.png)
+    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/NG/UserNumberControllerH.png)
 
-### Экран отгадывания числа компьютером (TrySystemController)
-    + ![loadScreen]( https://github.com/KovalMark/ScreenshotApp/blob/master/NG/TrySystemController(V).png )
-    + ![loadScreen]( https://github.com/KovalMark/ScreenshotApp/blob/master/NG/TrySystemController(H).png )
+### Экран отгадывания числа компьютером
++ TrySystemController
+    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/NG/TrySystemControllerV.png)
+    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/NG/TrySystemControllerH.png)
 
-### Экран отгадывания числа игроком (TryUserController)
-    + ![loadScreen]( https://github.com/KovalMark/ScreenshotApp/blob/master/NG/TryUserController(V).png )
-    + ![loadScreen]( https://github.com/KovalMark/ScreenshotApp/blob/master/NG/TryUserController(H).png )
+### Экран отгадывания числа игроком
++ TryUserController
+    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/NG/TryUserControllerV.png)
+    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/NG/TryUserControllerH.png)
 
-### Экран с результатом игры (ResultController)
-    + ![loadScreen]( https://github.com/KovalMark/ScreenshotApp/blob/master/NG/ResultController(V).png )
-    + ![loadScreen]( https://github.com/KovalMark/ScreenshotApp/blob/master/NG/ResultController(H).png )
+### Экран с результатом игры
++ ResultController
+    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/NG/ResultControllerV.png)
+    + ![loadScreen](https://github.com/KovalMark/ScreenshotApp/blob/master/NG/ResultControllerH.png)
